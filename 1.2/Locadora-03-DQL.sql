@@ -1,0 +1,10 @@
+CREATE DATABASE LocadoraDQL;
+
+USE LocadoraDDL;
+
+SELECT * FROM Alguel;
+SELECT * FROM Veiculo;
+SELECT * FROM Marca;
+SELECT * FROM Modelo;
+SELECT * FROM Cliente;
+SELECT * FROM Empresa;
