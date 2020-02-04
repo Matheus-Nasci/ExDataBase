@@ -1,0 +1,3 @@
+CREATE DATABASE PClinics_DQL;
+
+USE PClinics_DDL;
